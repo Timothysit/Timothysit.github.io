@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD student at the Sainsbury Welcome Centre, working in the Cortex Lab. 
 
-### More Information
+### Research
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently focused on audio-visual stimulus represetation and learning as a form of multisensory integration.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tim (dot) sit (dot) 18  (at) ucl.ac.uk](mailto:email@domain.com)
