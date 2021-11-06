@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student at the Sainsbury Welcome Centre, working in the Cortex Lab. 
+I am a PhD student at the Sainsbury Welcome Centre, working in the Cortex Lab led by Kenneth Harris and Matteo Carandini.
 
 ## Research
 
 I am currently focused on audio-visual stimulus represetation and learning as a form of multisensory integration. In practice that means (1) I play videos to mice and see what happens in their brain and (2) I look at what happens in their brain when they've learn to turn a wheel based on some flahshes of black and white bars and some clicking sounds.
 
-## Other projects 
+## Other projects
 
-Putting a public TODO here to pressure myself to write something here...
+### Sciplotlib
+
+[Sciplotlib](https://github.com/Timothysit/sciplotlib) is a Python library with extensions and convinient functions based on matplotlib to quickly alter the styling of plots so they match the standards of scientific publication (or at least my opinion of what is standard).
 
 
 ## Talks, Dataclubs, Journal clubs
