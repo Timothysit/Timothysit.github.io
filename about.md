@@ -44,4 +44,4 @@ For all the details, see the [biorxiv preprint](https://www.biorxiv.org/content/
 
 ## Contact me
 
-[tim (dot) sit (dot) 18  (at) ucl.ac.uk](mailto:email@domain.com)
+[tim (dot) sit (dot) 18  (at) ucl.ac.uk](mailto:tim.sit.18@ucl.ac.uk)
